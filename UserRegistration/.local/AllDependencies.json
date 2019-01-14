@@ -983,9 +983,9 @@
     "restore": {
       "projectUniqueName": "UserRegistration",
       "projectName": "UserRegistration",
-      "projectPath": "C:\\revature\\tovar-practice\\uipath\\UserRegistration\\.local",
+      "projectPath": "C:\\revature\\Axel-Tovar-Automation_Challenge1\\UserRegistration\\.local",
       "packagesPath": "C:\\Users\\Axel\\.nuget\\packages\\",
-      "outputPath": "C:\\revature\\tovar-practice\\uipath\\UserRegistration\\.local"
+      "outputPath": "C:\\revature\\Axel-Tovar-Automation_Challenge1\\UserRegistration\\.local"
     },
     "frameworks": {
       "net461": {
